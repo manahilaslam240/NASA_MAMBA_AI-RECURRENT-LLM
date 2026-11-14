@@ -1,0 +1,4 @@
+Spacecraft,Instrument_ID,API_URL,Parameters,Data_Type
+ISS (International Space Station),DosTel,https://visualization.osdr.nasa.gov/radlab/api/?spacecraft=ISS&instrument=DosTel,"spacecraft, instrument, timestamp, absorbed_dose_rate, latitude, longitude, altitude",Real-time radiation dosimetry telemetry
+ISS,REM,https://visualization.osdr.nasa.gov/radlab/api/?spacecraft=ISS&instrument=REM,"spacecraft, instrument, timestamp, absorbed_dose_rate, flux",Radiation environment monitoring
+TriTel,TriTel,https://visualization.osdr.nasa.gov/radlab/api/?spacecraft=TriTel,"spacecraft, instrument, timestamp, absorbed_dose_rate",3D Silicon detector telescope radiation data

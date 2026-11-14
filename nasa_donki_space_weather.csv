@@ -1,0 +1,5 @@
+Event_Type,API_Endpoint,Query_Parameters,Key_Data_Returned,Description
+Coronal Mass Ejection (CME),https://api.nasa.gov/DONKI/CME,"startDate, endDate, speed, halfAngle, catalog, api_key","startTime, sourceLocation, cmeAnalyses (speed, angle, type)",Tracks coronal mass ejections from the sun and analytical models.
+Solar Flare (FLR),https://api.nasa.gov/DONKI/FLR,"startDate, endDate, api_key","flFlareID, beginTime, peakTime, endTime, classType, sourceLocation",Catalog of solar flare outbursts and X-ray emission classes.
+Geomagnetic Storm (GST),https://api.nasa.gov/DONKI/GST,"startDate, endDate, api_key","gstID, startTime, allKpIndex (geomagnetic disturbance index)",Geomagnetic storm occurrences impacting Earth's magnetosphere.
+WSA+Enlil Simulation,https://api.nasa.gov/DONKI/WSAEnlilSimulations,"startDate, endDate, api_key","modelCompletionTime, cmeInputs, impactList",Solar wind predictions and CME arrival forecasts.

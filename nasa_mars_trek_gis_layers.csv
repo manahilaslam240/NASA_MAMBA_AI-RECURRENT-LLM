@@ -1,0 +1,4 @@
+Layer_Name,Layer_ID,Service_Protocol,Endpoint_URL,Bounding_Box,Description
+Mars MOLA and HRSC Color Hillshade Blend,Mars_MOLA_blend200ppx_HRSC_ClrShade_clon0dd_200mpp_lzw,OGC WMTS RESTful / Tile Service,https://trek.nasa.gov/tiles/Mars/1.0.0/...,"-180, -89.99, 179.99, 90",High-resolution global hillshade and color elevation blend of Mars.
+TES Plagioclase Mineralogy,TES_Plagioclase,OGC WMTS / REST,https://trek.nasa.gov/tiles/Mars/1.0.0/...,"-180, -89.87, 179.87, 90",Thermal Emission Spectrometer mineral mapping layer for Mars.
+Hale Crater CTX Mosaic,Hale_Crater_CTX_BlockAdj_dd,OGC WMTS / REST,https://trek.nasa.gov/tiles/Mars/1.0.0/...,"-38.38, -37.49, -34.21, -34.10",High-resolution Context Camera (CTX) orthoimage mosaic of Hale Crater.
